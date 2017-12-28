@@ -13,22 +13,22 @@ namespace hw12
         static void Main(string[] args)
         {
             Console.WriteLine("TASK 1 2 8");
-            //task1_2_8();
+            task1_2_8();
             Console.WriteLine();
             Console.WriteLine("TASK 3 9");
-            //task3_9();
+            task3_9();
             Console.WriteLine();
             Console.WriteLine("TASK 4");
-            //task4();
+            task4();
             Console.WriteLine();
             Console.WriteLine("TASK 5");
             task5();
             Console.WriteLine();
             Console.WriteLine("TASK 6");
-            //task6();
+            task6();
             Console.WriteLine();
             Console.WriteLine("TASK 7");
-            //task7();
+            task7();
         }
 
         static void task1_2_8()
